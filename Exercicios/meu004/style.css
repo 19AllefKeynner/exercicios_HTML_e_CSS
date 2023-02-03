@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body{
+    background-color: rgb(238, 178, 218);
+    text-align: center;
+    font-family: cursive;
+}
+h2{
+    text-align: left;
+}
+.icon{
+    text-align: left;
+    font-family: serif;
+    font-size: 20px;
+    
+}
+
